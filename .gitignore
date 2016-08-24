@@ -1,0 +1,8 @@
+#dirs
+/foo/*
+/vendor/
+/uploads/*
+
+#files
+composer.lock
+config.php

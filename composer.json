@@ -1,0 +1,9 @@
+{
+    "name": "future-analytics/meadows",
+    "description": "Nottingham Meadows - a Turas project",
+    "version": "0.0.1",
+    "type": "website",
+    "require": {
+        "phpmailer/phpmailer": "~5.2"
+    }
+}
