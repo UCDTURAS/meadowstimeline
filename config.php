@@ -6,10 +6,10 @@
  */
 $config = array(
     'db' => array(
-        'host' => 'localhost',
-        'user' => 'turas',
-        'pass' => 'Ge69htEfWzTw',
-        'name' => 'turas_meadows',
+        'host' => '',
+        'user' => '',
+        'pass' => '',
+        'name' => '',
     ),
     'admin' => array(
         'email' => 'Daithi Coombes',
