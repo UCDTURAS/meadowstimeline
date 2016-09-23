@@ -67,7 +67,7 @@ if(isset($_POST['data']) && !$error){
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js"></script>
   <!--[if lte IE 8]>
-  <link rel="stylesheet" href="//npmcdn.com/leaflet@0.7.7/dist/leaflet.css" />
+  <link rel="stylesheet" href="//unpkg.com/leaflet@0.7.7/dist/leaflet.css" />
   <![endif]-->
   <link rel="stylesheet" href="//timemapper.okfnlabs.org//vendor/recline/vendor/leaflet.markercluster/MarkerCluster.css">
   <link rel="stylesheet" href="//timemapper.okfnlabs.org//vendor/recline/vendor/leaflet.markercluster/MarkerCluster.Default.css">
